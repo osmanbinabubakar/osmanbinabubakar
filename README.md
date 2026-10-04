@@ -50,9 +50,3 @@ I specialize in building and deploying high-performance cross-platform mobile ap
 * Live dispatcher radar overlay via Google Maps API, automated flight-delay tracking telemetry (JFK, LGA, EWR), and Stripe pre-authorizations.
 
 ---
-
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=osmanhasnoon&show_icons=true&theme=dark" alt="Osman's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanhasnoon&layout=compact&theme=dark" alt="Top Languages" />
-</p>
