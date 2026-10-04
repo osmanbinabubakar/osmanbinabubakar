@@ -1,5 +1,5 @@
 # Hi, I'm Osman Bin Abubakar 👋
-### Senior Full-Stack & Mobile App Developer | Systems Architect
+### Full-Stack & Mobile App Developer | Systems Architect
 
 I specialize in building and deploying high-performance cross-platform mobile applications (iOS & Android) and scalable web platforms. I focus on real-world engineering problems: offline-first architectures, real-time GPS telemetry, and cost-efficient cloud databases.
 
